@@ -3,7 +3,7 @@ layout: post
 title:  "Building Let's integrate! - The Ruby on Rails API"
 date:   2016-05-01 10:00:00 +0000
 categories: api
-image:  /preview.jpg
+image:  /images/bg.jpg
 ---
 Most likely you have already heard about the so called "refugee crisis" in
 Europe. A couple of Friends (germans and refugees) and I started a project
