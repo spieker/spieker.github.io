@@ -10,7 +10,7 @@ instagram_username: 'paulspieker'
 github_username:  'spieker'
 feed_icon: rss
 email: 'paul@spieker.me'
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
 
