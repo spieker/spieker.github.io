@@ -254,6 +254,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  kramdown (~> 2.3)
+  rouge (~> 3.26)
   webrick (~> 1.8)
 
 BUNDLED WITH
